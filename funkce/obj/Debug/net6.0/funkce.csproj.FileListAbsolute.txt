@@ -1,0 +1,15 @@
+C:\Users\cacakfi20\RiderProjects\funkce\funkce\bin\Debug\net6.0\funkce.exe
+C:\Users\cacakfi20\RiderProjects\funkce\funkce\bin\Debug\net6.0\funkce.deps.json
+C:\Users\cacakfi20\RiderProjects\funkce\funkce\bin\Debug\net6.0\funkce.runtimeconfig.json
+C:\Users\cacakfi20\RiderProjects\funkce\funkce\bin\Debug\net6.0\funkce.dll
+C:\Users\cacakfi20\RiderProjects\funkce\funkce\bin\Debug\net6.0\funkce.pdb
+C:\Users\cacakfi20\RiderProjects\funkce\funkce\obj\Debug\net6.0\funkce.csproj.AssemblyReference.cache
+C:\Users\cacakfi20\RiderProjects\funkce\funkce\obj\Debug\net6.0\funkce.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cacakfi20\RiderProjects\funkce\funkce\obj\Debug\net6.0\funkce.AssemblyInfoInputs.cache
+C:\Users\cacakfi20\RiderProjects\funkce\funkce\obj\Debug\net6.0\funkce.AssemblyInfo.cs
+C:\Users\cacakfi20\RiderProjects\funkce\funkce\obj\Debug\net6.0\funkce.csproj.CoreCompileInputs.cache
+C:\Users\cacakfi20\RiderProjects\funkce\funkce\obj\Debug\net6.0\funkce.dll
+C:\Users\cacakfi20\RiderProjects\funkce\funkce\obj\Debug\net6.0\refint\funkce.dll
+C:\Users\cacakfi20\RiderProjects\funkce\funkce\obj\Debug\net6.0\funkce.pdb
+C:\Users\cacakfi20\RiderProjects\funkce\funkce\obj\Debug\net6.0\funkce.genruntimeconfig.cache
+C:\Users\cacakfi20\RiderProjects\funkce\funkce\obj\Debug\net6.0\ref\funkce.dll
